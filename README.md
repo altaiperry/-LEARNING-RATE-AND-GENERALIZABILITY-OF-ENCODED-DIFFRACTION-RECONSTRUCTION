@@ -5,7 +5,13 @@ This repo is maintained by the first author, Altai Perry.
 
 ORGANIZATION:
 
-Where applicable, the data that was generated (models, datasets) are uploaded and analysis notebooks refer to their dir. The generator notebooks output their locations to a USER_CREATED_DATA dir. If you want to generate your own data and models and analyze them (rather than what I supply in the CURATED_DATA dir), change the reference in the applicable analysis notebooks.
+Where applicable, the data that was generated (models, datasets) are uploaded and analysis notebooks refer to their dir. The generator notebooks output their locations to a USER_CREATED_DATA dir. If you want to generate your own data and models and analyze them (rather than what I supply in the CURATED_DATA dir), change the reference in the applicable analysis notebooks. 
+
+The CiFAR-10 dataset can be found here: https://www.cs.toronto.edu/~kriz/cifar.html
+
+All other datasets used are either generated or supplied through KERAS in TensorFlow.
+
+List of the packages used and their ver are found in packages.md.
 
 ABSTRACT:
 
