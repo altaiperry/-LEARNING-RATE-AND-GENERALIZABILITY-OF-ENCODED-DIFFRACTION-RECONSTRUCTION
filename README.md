@@ -1,6 +1,6 @@
 PREAMBLE:
 
-This repo holds the jupyter notebooks used to generate the data used in SVD ENTROPY MEASURES LEARNING RATE AND GENERALIZABILITY OF ENCODED DIFFRACTION RECONSTRUCTION which was submitted to IEEE International Conference on Image Processing (ICIP) 2022.
+This repo holds the jupyter notebooks used to generate the data used in SVD ENTROPY MEASURES LEARNING RATE AND GENERALIZABILITY OF ENCODED DIFFRACTION RECONSTRUCTION which will be submitted to Optics Express in September 2022.
 This repo is maintained by the first author, Altai Perry.
 
 ORGANIZATION:
